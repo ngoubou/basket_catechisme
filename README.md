@@ -1,3 +1,3 @@
 # basket_catechisme
 
-A series of plots for the Twitch channel BasketCathe
+A series of plots for the Twitch channel BasketCathechisme
